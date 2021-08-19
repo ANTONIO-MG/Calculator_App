@@ -67,7 +67,7 @@ Button(root, text=" X! ").grid(row=4, column=4)
 Button(root, text=" = ").grid(row=5, column=4)
 
 
-
+# i just made an additional note here
 
 
 root.mainloop()
