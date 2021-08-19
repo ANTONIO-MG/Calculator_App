@@ -66,7 +66,7 @@ Button(root, text="  %  ").grid(row=3, column=4)
 Button(root, text=" X! ").grid(row=4, column=4)
 Button(root, text=" = ").grid(row=5, column=4)
 
-#don g mades this change to this current file here
+
 
 
 
